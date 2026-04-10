@@ -58,19 +58,9 @@ The AI uses the **minimax algorithm** to determine the best move:
 
 This ensures the AI plays perfectly and cannot be beaten.
 
-## File Structure
 
-- `tictactoe.py`: Contains the game logic, minimax algorithm, and helper functions
-- `runner.py`: Pygame-based GUI for playing the game
-- `requirements.txt`: Lists the Python dependencies (Pygame)
-- `OpenSans-Regular.ttf`: Font file used by the GUI
-- `readme.md`: This file
-- `__pycache__/`: Python bytecode cache (auto-generated)
+## Scope for improvement
 
-## Contributing
+Alpha Beta pruning could be used to speed up MiniMax
 
-Feel free to submit issues or pull requests for improvements.
-
-## License
-
-This project is for educational purposes.
+Made by dontad for CS50
